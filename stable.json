@@ -2,6 +2,26 @@
   "schema": 1,
   "channel": "stable",
   "appId": "com.lamacchini.app",
-  "enabled": false,
-  "message": "No OTA update is currently published."
+  "enabled": true,
+  "version": "1.0.1",
+  "platforms": {
+    "ios": {
+      "appId": "com.lamacchini.lm",
+      "nativeBuilds": [
+        "14"
+      ]
+    },
+    "android": {
+      "appId": "com.lamacchini.app",
+      "nativeBuilds": [
+        "14"
+      ]
+    }
+  },
+  "bundle": {
+    "url": "https://github.com/huscoffee/ella-app-updates/releases/download/app-1.0.1/ella-app-1.0.1.zip",
+    "checksum": "U4kso0To2jTOT3i94pbBY3/7f6viW8HrnkosyUmBQFbIfOr+Ut86UtUd3XWdZuYJ3tWqq6muFqRwkWJgtDdZceLyh27CJzZgUxklycBt+JlJfcCzLOMD59ZjDoE+9mPPbGPOs/CKgIuGLQp754GTVjhACTvvEferAKeAhcW0TnTu4CPhRA5FrUFt9J50PjQZZaung034gA/gPcZu7ol2ZYPPzx1I/WJQsRMG/INzY7I0UDgSAaprCkt4KfFPPcWQo0GGLZd3vtHzvoHA1F0T9tNK0Jk6gj7X3yQb5out3FhAzu0EHNUHwWKSlVXJikWFtbJX3ybTxdNJzUbmcFrqyQ==",
+    "sessionKey": "Jn3+FSCLkJ2iEpYb1T11Aw==:wFl7/kC+AqigcDU5kKdmqXzSgdkJFUoSyLGiB7svMV9QNNLk107q3N+ly/seeUycuuFAWwZ9VaIVWxmrXCKWahftwDm67RsbNH5iJg2TOx87Gd/tcqmK9IAXtvJDg6x7wu9WxoP/jij+fxmS77dgYZWyowxeQ5MG6ZfZh1IHahoHo45R+yPMFJkfuG58qJ5vXwU7bgEXoCdEkZE/QdtigbTVcqwhGejf9THKAwej2CIgariVKvEFIH6ZDaHFabt7YzF2rHZrxdOoOtXseac1Q+n576JAJztwZtsBxdNxvDhwGqT6mhGgFq+JiBc3K44DicN0BHE0OKxv7M+e5YhN9Q==",
+    "sha256": "ab96775a254189fed0deb3bbb2da8cf2dfdee376c5066960c883ae74ea9359ea"
+  }
 }
