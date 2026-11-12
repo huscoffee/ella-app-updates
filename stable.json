@@ -3,7 +3,7 @@
   "channel": "stable",
   "appId": "com.lamacchini.app",
   "enabled": true,
-  "version": "1.0.3",
+  "version": "1.0.19",
   "platforms": {
     "ios": {
       "appId": "com.lamacchini.lm",
@@ -12,21 +12,18 @@
         "com.lamacchini.ios"
       ],
       "nativeBuilds": [
-        "14",
-        "16"
+        "17"
       ]
     },
     "android": {
       "appId": "com.lamacchini.app",
-      "nativeBuilds": [
-        "14"
-      ]
+      "nativeBuilds": []
     }
   },
   "bundle": {
-    "url": "https://github.com/huscoffee/ella-app-updates/releases/download/app-1.0.3/ella-app-1.0.3.zip",
-    "checksum": "s45qr4yhv+qgMieeCzDRoZvZrUcHub/t0hXgtBo2vyoZUI2fOYF5HQ4IoK+MXzH4M908Qa7mLdYo7bBzz3qJdoI58HD48ccXYbmtT9GZtgRgW6UoMNb7ZYIWoNbVJzyBVGaPrXzQhue6jhJosz1wHTaU7LFmkMv25cMGMoLVKcCKd5FjAOcKxkxevMVVTvJA9MpWDR2HL76QliKGLAuyQww7qs7wMh2O78kijkDg57KvxSgBB81o9rqG3Bk/1Hl8nG0YqYryYkII6inU4BSBEXByuK4zj5Ao47jZMkXSO2OXTAAul0VdHKq0glFt3OTo037f77PZQyrYz26UHsp9Dg==",
-    "sessionKey": "wOy8RAb99Zf+BQnWauVMSw==:Cy3yJ1r0sFoC5u4AjyrzQTpHERpo9dg0xXPlpqpQ1UszZ2eOG4EQyvwizwCZWtRPWtzi19es6/xqyCkbYODjWYTDTlUpWUG4ypnHyXZ5j3ys7ZmvkDcQFeEHSjTCII8x0+xOkVhKhJn5BVxydHYgorppfcfPQ8sOuQ2QdE1TqYpWBDYCrEjxE1pWFSNAcbseVSqjriQMqrKzAfw8zJdUdHCXSbwg5LjO5M70wAwSjYPytI0wv0pW2di7m5CmJxRTqHC6ZBUdxyNEcAB9BmGeFrn2MzcI8TqukQRsgMLhca8PSCeOjQ3XXsnQw4+1hbUo2jG/SSaQyZzYfMjFaPjm4w==",
-    "sha256": "c8235f6bd1b4d31c2e72fafb356d3b0a2e5079c4820efe00d732c043848609b4"
+    "url": "https://github.com/huscoffee/ella-app-updates/releases/download/app-1.0.19/ella-app-1.0.19.zip",
+    "checksum": "jButVLeG9Fl+7gb/vS6jewHn+7O+U0T2LsLGu9NXSCUAA9pddlVE0r98w8aGBCkCs2diUZZzzl7lpr+Y0BvfpCwyOoq/Cc41mPY6orrQtM++gT0peY7hWYWrgLj+/VKuuDb8+uJmEs+/r2XrJ8r4E7j0poM9slTxsVNaGeux/GlH26gzJAXnDHWaVanhYJpcDQgq7dE6GJRl9b3/gZz/yK6dg7Lk0JjIpXJ/4LcSkCn+6SGKBcaBPkhvBGu96TTWF0gGC+ASr0Bp9qr/gWoc9K+gumoO7k3wS0c47rX3Oc3KVsvXa8CGbZ9QoxwBuBXOlfqGNcXut769pFHltni8BQ==",
+    "sessionKey": "eKGLOhpdMlaIcb2vQkb1bQ==:vo7Y9y4mPvtJN/K2DjUqh8coI2s434cyM2FjCHk6H0aLB2L9cW+SH6RQkYsRjRhxDFy+20/crUmExLzXtmMsk2cFdGiJiCNUyLE1otQ2T2l4N+vNelRv15XjJ+TYVXIvfY6O6c56sUMVYw/rl457eiboD9Z6kjqJoddEH635MbcfAdu7wmQ1fc459rCF9nK4x7zM+H2TRl6vKW01t0FoLneXwfITQOMbRtM13zhKtBfJdq9yzgXRbiL050ETI8lOeRpto3inB2LJJFrgOPF+EG1ux1yEhjM1hNdBolS0sS0fnsyaukNLn8aj+uAGcfdEOT6SLDv2TVr6rnd9N2rYwQ==",
+    "sha256": "5a36336696f032a0c8db8697a9e1061ace2d8b2d7bdfecd1ae4001431042f875"
   }
 }
