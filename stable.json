@@ -3,7 +3,7 @@
   "channel": "stable",
   "appId": "com.lamacchini.app",
   "enabled": true,
-  "version": "1.0.19",
+  "version": "1.0.20",
   "platforms": {
     "ios": {
       "appId": "com.lamacchini.lm",
@@ -21,9 +21,9 @@
     }
   },
   "bundle": {
-    "url": "https://github.com/huscoffee/ella-app-updates/releases/download/app-1.0.19/ella-app-1.0.19.zip",
-    "checksum": "jButVLeG9Fl+7gb/vS6jewHn+7O+U0T2LsLGu9NXSCUAA9pddlVE0r98w8aGBCkCs2diUZZzzl7lpr+Y0BvfpCwyOoq/Cc41mPY6orrQtM++gT0peY7hWYWrgLj+/VKuuDb8+uJmEs+/r2XrJ8r4E7j0poM9slTxsVNaGeux/GlH26gzJAXnDHWaVanhYJpcDQgq7dE6GJRl9b3/gZz/yK6dg7Lk0JjIpXJ/4LcSkCn+6SGKBcaBPkhvBGu96TTWF0gGC+ASr0Bp9qr/gWoc9K+gumoO7k3wS0c47rX3Oc3KVsvXa8CGbZ9QoxwBuBXOlfqGNcXut769pFHltni8BQ==",
-    "sessionKey": "eKGLOhpdMlaIcb2vQkb1bQ==:vo7Y9y4mPvtJN/K2DjUqh8coI2s434cyM2FjCHk6H0aLB2L9cW+SH6RQkYsRjRhxDFy+20/crUmExLzXtmMsk2cFdGiJiCNUyLE1otQ2T2l4N+vNelRv15XjJ+TYVXIvfY6O6c56sUMVYw/rl457eiboD9Z6kjqJoddEH635MbcfAdu7wmQ1fc459rCF9nK4x7zM+H2TRl6vKW01t0FoLneXwfITQOMbRtM13zhKtBfJdq9yzgXRbiL050ETI8lOeRpto3inB2LJJFrgOPF+EG1ux1yEhjM1hNdBolS0sS0fnsyaukNLn8aj+uAGcfdEOT6SLDv2TVr6rnd9N2rYwQ==",
-    "sha256": "5a36336696f032a0c8db8697a9e1061ace2d8b2d7bdfecd1ae4001431042f875"
+    "url": "https://github.com/huscoffee/ella-app-updates/releases/download/app-1.0.20/ella-app-1.0.20.zip",
+    "checksum": "dHUHv4tDtSQVs5Ve7UPrc6NI8gOyC2/zIaFFhShx5sO48Ep5m/WnUOb96Xt9B+uscndaqEEPxnlUU3SGPYIlZUvtgeCDwOdKqTU1xVABieF3prZ5q7VnAH0xTmE0tXCkMwgPyOWLGiWwgwCb3lBi71VnEKHF2oUwWrrGj3O+kBJUqvKnqCKr+gG2hXtuq5VWaGJHrCiRc+uva74D1KBUqPwXdAvooMLWrdERfYIAx95css/jWDc7HUqkrXVCzw0j+awpRGE5BgJVNWIrkabiRPPMZcwkrH2Xmyj0z3uaTKhmzRUDMh5G9B6rX+oqw4bcYaikI9vPZxoxcUFg5Y2HMA==",
+    "sessionKey": "7H+01ad0WHKX7uwFSDt2PA==:VZxp28RrE2pbpBh2O5nMBZMKbodYvY6H1RbsB06TpVSmNLSM5ukJZG7UJFImPT3+YjWTny1DgykUjj2LbFNzIzcbJ91AdczDjtMV3FtU3gh+6gNOP87lfowHqOHHxDjs4ggeMPJKUiEMCweXCDdS/yeTrr2lSvOXslrU9OJlXKTwh3cHHIaCckyKR0ZCa25ANPvM7QLekC9KubvCTmTz58MvVCibyb2T38QGOq3hRasdfmkbcMUh7/qTib6HVA4YyxWolXtWmDE9Aurm4PqHw9Vmq/oOuFtYtqHi8BE9SGf74Wwxbh/fNgSkQka+NPYjugvt1u81bdOPBaqYjDejhg==",
+    "sha256": "3a15ce8ece9372d4b2ffb672f0f96358b87786fbb8d3c8ad8bc301fde0270479"
   }
 }
