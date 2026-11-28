@@ -3,7 +3,7 @@
   "channel": "stable",
   "appId": "com.lamacchini.app",
   "enabled": true,
-  "version": "1.0.20",
+  "version": "1.0.22",
   "platforms": {
     "ios": {
       "appId": "com.lamacchini.lm",
@@ -21,9 +21,9 @@
     }
   },
   "bundle": {
-    "url": "https://github.com/huscoffee/ella-app-updates/releases/download/app-1.0.20/ella-app-1.0.20.zip",
-    "checksum": "dHUHv4tDtSQVs5Ve7UPrc6NI8gOyC2/zIaFFhShx5sO48Ep5m/WnUOb96Xt9B+uscndaqEEPxnlUU3SGPYIlZUvtgeCDwOdKqTU1xVABieF3prZ5q7VnAH0xTmE0tXCkMwgPyOWLGiWwgwCb3lBi71VnEKHF2oUwWrrGj3O+kBJUqvKnqCKr+gG2hXtuq5VWaGJHrCiRc+uva74D1KBUqPwXdAvooMLWrdERfYIAx95css/jWDc7HUqkrXVCzw0j+awpRGE5BgJVNWIrkabiRPPMZcwkrH2Xmyj0z3uaTKhmzRUDMh5G9B6rX+oqw4bcYaikI9vPZxoxcUFg5Y2HMA==",
-    "sessionKey": "7H+01ad0WHKX7uwFSDt2PA==:VZxp28RrE2pbpBh2O5nMBZMKbodYvY6H1RbsB06TpVSmNLSM5ukJZG7UJFImPT3+YjWTny1DgykUjj2LbFNzIzcbJ91AdczDjtMV3FtU3gh+6gNOP87lfowHqOHHxDjs4ggeMPJKUiEMCweXCDdS/yeTrr2lSvOXslrU9OJlXKTwh3cHHIaCckyKR0ZCa25ANPvM7QLekC9KubvCTmTz58MvVCibyb2T38QGOq3hRasdfmkbcMUh7/qTib6HVA4YyxWolXtWmDE9Aurm4PqHw9Vmq/oOuFtYtqHi8BE9SGf74Wwxbh/fNgSkQka+NPYjugvt1u81bdOPBaqYjDejhg==",
-    "sha256": "3a15ce8ece9372d4b2ffb672f0f96358b87786fbb8d3c8ad8bc301fde0270479"
+    "url": "https://github.com/huscoffee/ella-app-updates/releases/download/app-1.0.22/ella-app-1.0.22.zip",
+    "checksum": "N/X2woVfb0q2Nn2xV+hAprnB2Mv1Hy06UtEvyGVWootQMOzSBVey/jrw+DhZRThuURBrFmxymJcARlM/aOzCTC2oHLVmaZcwE7Z0ltpVQWoE5slHkVp9abdHEuAQCSpG5xffnE1BB/hsMvK2XkPkP3t4v1TIc0iwopHcO1VJvj+BUxhbYyRjbg2Y3DcL56g2MzWdieQXwhuaoVOc1YRogCMwzNXCnkWmFTXU63rPFJY4y7TJG4Ksh19ixu56/+4KRQd0T5s+M3gLlbLHlS5mhpgM7JDv1pdEZTjgsxz8qzyyfk2VHBngZxWCSIolIQUgQ8kWuVFKCnS/s4WtEq1vnw==",
+    "sessionKey": "pqy8btITqDUCgnQXurjbGA==:zv202p1qC63cSrXGNpG9Z9ofNy9ZWSq92beRrLDcz/WdVANxoRrbIIJbCI3Q/sIo6kzFNLZKxcAjNb8XTR4Gsv0NyHV51mdkk1CD1jPbUE5rXZDNuwk+LE2cGRj2N2F4ZR31Jci58mqgfL0JGRFQRl61CFL1R+FutX570EKEYRjVlsiPd3DRymrvxjN9BbnD7e61mJrv+y+28oX4RpH5yPG/tiZHlS1DC44E33klc/ZOBGS7sfFMthiS9O6u5zIPX6QdKM6VRtM7vT0vY+ZfI44GZFKEU2qhe05RH1/DmotiZQ978buGqBnB1QQEJZJHGKQW/Cectx/Us6ogHP+UBg==",
+    "sha256": "b8259475bdd3ee224ef7bb6ed72df5c764cde9f3e02d061f2841922510a1ff5a"
   }
 }
